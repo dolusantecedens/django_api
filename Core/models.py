@@ -2,11 +2,9 @@ from django.db import models
 import uuid
 from django.contrib.auth.models import User
 from django.core.files.storage import FileSystemStorage
-from django_extensions.db.models import (
-	TimeStampedModel, 
-	ActivatorModel,
-	TitleDescriptionModel
-)
+from django_extensions.db.models import (TimeStampedModel, ActivatorModel, TitleDescriptionModel)
+
+
 
 
 # Create your models here.

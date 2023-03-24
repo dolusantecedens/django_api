@@ -73,7 +73,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'dla_olka_1.wsgi.application'
+WSGI_APPLICATION = 'olka_1.wsgi.application'
 
 
 # Database
