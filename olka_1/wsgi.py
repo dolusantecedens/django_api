@@ -1,5 +1,5 @@
 """
-WSGI config for dla_olka_1 project.
+WSGI config for olka_1 project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
